@@ -17,6 +17,10 @@ Clone the array, then time sort each array. A timer will being going on while
 the arrays are being sorted, showing which sort is faster.
 */
 public class HW4 {
+    
+    public HW4(){
+        
+    }
      
     String [] bubbleArray;
     long totalWallClockBubble;
